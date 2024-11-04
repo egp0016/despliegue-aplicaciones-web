@@ -1,3 +1,4 @@
 <?php
-	echo "<p>hola</p>";
+	$var = 3;
+	echo "<p>hola$var</p>";
 ?>
